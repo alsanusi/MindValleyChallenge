@@ -41,3 +41,8 @@ Requirements:
 12. Adding "pull to refresh" is an advantage.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+Screenshot of the Application:
+
+ ![menu](https://user-images.githubusercontent.com/27500484/28566331-673307fc-7161-11e7-908d-9e6a768e4fad.png) ![cache-cleared](https://user-images.githubusercontent.com/27500484/28566393-9b968816-7161-11e7-969d-d2ede8690d27.png) ![galery](https://user-images.githubusercontent.com/27500484/28566406-a00865e0-7161-11e7-898a-dd9172c725d9.png)
+![refresh - gallery](https://user-images.githubusercontent.com/27500484/28566409-a1645408-7161-11e7-882d-edf34fb08e88.png)
